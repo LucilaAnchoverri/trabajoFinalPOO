@@ -1,0 +1,19 @@
+{
+  "name": "trabajofinalpoo",
+  "version": "1.0.0",
+  "description": "trabajo final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucilaAnchoverri/trabajoFinalPOO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucilaAnchoverri/trabajoFinalPOO/issues"
+  },
+  "homepage": "https://github.com/LucilaAnchoverri/trabajoFinalPOO#readme"
+}
