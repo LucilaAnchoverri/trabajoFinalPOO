@@ -1,4 +1,4 @@
-import { Casino } from "./CasinoAbstract";
+import { Casino } from "./Casino";
 import { Dados } from "./Dados";
 import { Ruleta } from "./Ruleta";
 import { TragamonedasBonus } from "./TragamonedasCB";

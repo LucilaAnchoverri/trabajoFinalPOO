@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/LucilaAnchoverri/trabajoFinalPOO/issues"
   },
-  "homepage": "https://github.com/LucilaAnchoverri/trabajoFinalPOO#readme"
+  "homepage": "https://github.com/LucilaAnchoverri/trabajoFinalPOO#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
 }

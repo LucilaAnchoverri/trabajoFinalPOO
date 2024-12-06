@@ -1,4 +1,4 @@
-import { Casino } from "./CasinoAbstract";
+import { Casino } from "./Casino";
 
 export class Tragamonedas extends Casino {
   protected rodillos: number = 3;
