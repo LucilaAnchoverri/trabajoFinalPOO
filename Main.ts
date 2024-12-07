@@ -1,6 +1,6 @@
 import * as readlineSync from 'readline-sync';
 import * as fs from 'fs';
-import { Casino } from './CasinoAbstract';
+import { Casino } from './Casino';
 import { FabricaDeJuegos } from './FabricaDeJuegos';
 import { Dados } from './Dados';
 import { Ruleta } from './Ruleta';
